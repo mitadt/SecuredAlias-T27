@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+F:\1612\lbs\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3766870853.index
+\LBS\src

@@ -1,0 +1,11 @@
+127.0.0.1 - - [15/Dec/2018:15:38:25 +0530] "GET / HTTP/1.1" 404 1081
+0:0:0:0:0:0:0:1 - - [15/Dec/2018:15:38:26 +0530] "GET /LBS/default.jsp HTTP/1.1" 200 710
+0:0:0:0:0:0:0:1 - - [15/Dec/2018:15:38:26 +0530] "GET /favicon.ico HTTP/1.1" 404 1092
+0:0:0:0:0:0:0:1 - - [15/Dec/2018:15:41:00 +0530] "GET /LBS/RegisterServlet?name=Misha&email=misha@gmail.com&mobile=9857845875&password=123456789&city=Mumbai&gender=Female&age=25&usertype=Admin HTTP/1.1" 200 24
+0:0:0:0:0:0:0:1 - - [15/Dec/2018:15:42:58 +0530] "GET /LBS/LoginServlet?mobile=9857845875&password=123456789&usertype=Admin HTTP/1.1" 200 201
+0:0:0:0:0:0:0:1 - - [15/Dec/2018:15:43:18 +0530] "GET /LBS/LoginServlet?mobile=9857845875&password=12345&usertype=Admin HTTP/1.1" 200 29
+0:0:0:0:0:0:0:1 - - [15/Dec/2018:15:43:56 +0530] "GET /LBS/GetUsers HTTP/1.1" 200 18
+0:0:0:0:0:0:0:1 - - [15/Dec/2018:15:44:24 +0530] "GET /LBS/GetUsers HTTP/1.1" 200 18
+0:0:0:0:0:0:0:1 - - [15/Dec/2018:15:44:33 +0530] "GET /LBS/GetUsers HTTP/1.1" 200 51
+127.0.0.1 - - [15/Dec/2018:15:50:57 +0530] "GET / HTTP/1.1" 404 1081
+0:0:0:0:0:0:0:1 - - [15/Dec/2018:15:50:57 +0530] "GET /LBS/default.jsp HTTP/1.1" 200 710
